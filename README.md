@@ -1,2 +1,2 @@
 # rockypot.github.io
-A starter friendly website
+Privacy policy for the Bitcoin Arbitrage Function
